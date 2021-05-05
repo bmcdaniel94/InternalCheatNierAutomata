@@ -1,0 +1,2 @@
+A:\~projects\~visual studio\HackAnyGameP2\x64\Debug\ExternalCheatTemplate.exe
+A:\~projects\~visual studio\HackAnyGameP2\x64\Debug\ExternalCheatTemplate.pdb
